@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Snake",
+  "description": "High-octane neon cyber Snake arcade game with juice effects, multiple game modes, unlockable skins, particle trails, and local leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
